@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tarea_Hooks/static/css/main.1d2304c5.chunk.css",
+    "main.js": "/tarea_Hooks/static/js/main.0ea468c4.chunk.js",
+    "main.js.map": "/tarea_Hooks/static/js/main.0ea468c4.chunk.js.map",
+    "runtime-main.js": "/tarea_Hooks/static/js/runtime-main.1509c837.js",
+    "runtime-main.js.map": "/tarea_Hooks/static/js/runtime-main.1509c837.js.map",
+    "static/js/2.3d3581aa.chunk.js": "/tarea_Hooks/static/js/2.3d3581aa.chunk.js",
+    "static/js/2.3d3581aa.chunk.js.map": "/tarea_Hooks/static/js/2.3d3581aa.chunk.js.map",
+    "index.html": "/tarea_Hooks/index.html",
+    "precache-manifest.988a28628b6b05923149f59f166a4d72.js": "/tarea_Hooks/precache-manifest.988a28628b6b05923149f59f166a4d72.js",
+    "service-worker.js": "/tarea_Hooks/service-worker.js",
+    "static/css/main.1d2304c5.chunk.css.map": "/tarea_Hooks/static/css/main.1d2304c5.chunk.css.map",
+    "static/js/2.3d3581aa.chunk.js.LICENSE.txt": "/tarea_Hooks/static/js/2.3d3581aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1509c837.js",
+    "static/js/2.3d3581aa.chunk.js",
+    "static/css/main.1d2304c5.chunk.css",
+    "static/js/main.0ea468c4.chunk.js"
+  ]
+}
